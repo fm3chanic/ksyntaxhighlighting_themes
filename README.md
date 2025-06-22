@@ -1,15 +1,15 @@
 ## fm3chanic Themes for KSyntaxhighlighting
 
-This repository contains all color themes for KSyntaxhighlighting I've created. 
+This repository contains all color themes for KSyntaxhighlighting I've created so far.<br> 
 KSyntaxhighlighting supports Kate and KWrite from the KDE desktop project and all other applications which are using KSyntaxhighlighting.
 
 Themes which have been created during my project of color theming Vtubers are in the folder "vtuber_project". The folder "other" contains all color themes which where created outside of the project.
 
-HTML-scheme files for all color themes: https://github.com/fm3chanic/color_schemes
+You can find [HTML reference sheets](https://github.com/fm3chanic/color_schemes) for all color themes [here](https://github.com/fm3chanic/color_schemes).<br>
+You can find [further information](https://github.com/fm3chanic/vtuber_project) regarding the Vtuber project [here](https://github.com/fm3chanic/vtuber_project).
 
-Further information regarding the Vtuber project: https://github.com/fm3chanic/vtuber_project
-
-**Please note** that all color themes have been originally created for Notepad++, which has the tendency to show colors lighter as they are in other applications. Therefore it might occur that the color theme is slighly darker in Kate, KWrite, etc.
+> [!IMPORTANT]
+> Please note that all color themes have been originally created for Notepad++, which has the tendency to show colors lighter as they are in other applications. Therefore it might occur that the color theme is slighly darker in Kate, KWrite, etc.
 
 ### Installation:
 
@@ -36,7 +36,7 @@ The usual directory where the themes are deployed is
 
 `/usr/share/org.kde.syntax-highlighting/themes/` for machine-wide installation.
 
-Depending on installation (Flatpak, Snap, Windows) you might find the directory in different locations.
+Depending on installation (Flatpak, Snap, Windows) you might find the directory in a different location on your machine:
 
 |Installation Method|Location|
 |:---:|:---|
@@ -46,7 +46,8 @@ Depending on installation (Flatpak, Snap, Windows) you might find the directory 
 
 *To remove the theme remove the theme file from the according directory.*
 
-***For local installation or deinstallation both options can be used interchangably.***
+> [!NOTE]
+> For local installation or deinstallation both options can be used interchangably.
 
 ### Contribution:
 
