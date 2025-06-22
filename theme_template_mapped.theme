@@ -1,0 +1,169 @@
+{
+    "metadata" : {
+        "copyright" : ["SPDX-FileCopyrightText: fm3chanic <f.m3chanic@gmail.com>"],
+        "license" : "SPDX-License-Identifier: MIT",
+        "name" : "ThemeName",
+        "revision" : 1
+    },
+    "text-styles" : {
+        "Alert" : {
+            "text-color" : "Main1",
+            "selected-text-color" : "Main1",
+            "background-color" : "BackGround1"
+        },
+        "Annotation": {
+            "text-color" : "ForeGround3",
+            "selected-text-color" : "ForeGround3"
+        },
+        "Attribute" : {
+            "text-color" : "Main5",
+            "selected-text-color" : "Main5"
+        },
+        "BaseN": {
+            "text-color" : "Main3",
+            "selected-text-color" : "Main3"
+        },
+        "BuiltIn": {
+            "text-color" : "Main6",
+            "selected-text-color" : "Main6"
+        },
+        "Char": {
+            "text-color" : "Main4",
+            "selected-text-color" : "Main4"
+        },
+        "Comment": {
+            "text-color" : "ForeGround3",
+            "selected-text-color" : "ForeGround3"
+        },
+        "CommentVar" : {
+            "text-color" : "ForeGround3",
+            "selected-text-color" : "ForeGround3"
+        },
+        "Constant" : {
+            "text-color" : "Main5",
+            "selected-text-color" : "Main5"
+        },
+        "ControlFlow" : {
+            "text-color" : "Main2",
+            "selected-text-color" : "Main2"
+        },
+        "DataType" : {
+            "text-color" : "Main2",
+            "selected-text-color" : "Main2"
+        },
+        "DecVal" : {
+            "text-color" : "Main3",
+            "selected-text-color" : "Main3"
+        },
+        "Documentation" : {
+            "text-color" : "ForeGround3",
+            "selected-text-color" : "ForeGround3"
+        },
+        "Error" : {
+            "text-color" : "Main1",
+            "selected-text-color" : "Main1"
+        },
+        "Extension" : {
+            "text-color" : "Main1",
+            "selected-text-color" : "Main1"
+        },
+        "Float" : {
+            "text-color" : "Main3",
+            "selected-text-color" : "Main3"
+        },
+        "Function" : {
+            "text-color" : "Main1",
+            "selected-text-color" : "Main1"
+        },
+        "Import" : {
+            "text-color" : "Main2",
+            "selected-text-color" : "Main2"
+        },
+        "Information" : {
+            "text-color" : "ForeGround3",
+            "selected-text-color" : "ForeGround3"
+        },
+        "Keyword" : {
+            "text-color" : "Main6",
+            "selected-text-color" : "Main6"
+        },
+        "Normal" : {
+            "text-color" : "ForeGround1",
+            "selected-text-color" : "ForeGround1",
+            "bold" : false,
+            "italic" : false,
+            "underline" : false,
+            "strike-through" : false
+        },
+        "Operator" : {
+            "text-color" : "Main5",
+            "selected-text-color" : "Main5"
+        },
+        "Others" : {
+            "text-color" : "ForeGround2",
+            "selected-text-color" : "ForeGround2"
+        },
+        "Preprocessor" : {
+            "text-color" : "Main2",
+            "selected-text-color" : "Main2"
+        },
+        "RegionMarker" : {
+            "text-color" : "Main2",
+            "selected-text-color" : "Main2"
+        },
+        "SpecialChar" : {
+            "text-color" : "Sub4",
+            "selected-text-color" : "Sub4"
+        },
+        "SpecialString" : {
+            "text-color" : "Sub4",
+            "selected-text-color" : "Sub4"
+        },
+        "String" : {
+            "text-color" : "Main4",
+            "selected-text-color" : "Main4"
+        },
+        "Variable" : {
+            "text-color" : "Main5",
+            "selected-text-color" : "Main5"
+        },
+        "VerbatimString" : {
+            "text-color" : "Main3",
+            "selected-text-color" : "Main3"
+        },
+        "Warning" : {
+            "text-color" : "Main1",
+            "selected-text-color" : "Main1"
+        }
+    },
+    "editor-colors": {
+        "BackgroundColor" : "BackGround1",
+        "BracketMatching" : "HighLight2",
+        "CodeFolding" : "HighLight2",
+        "CurrentLine" : "HighLight3",
+        "CurrentLineNumber" : "ForeGround3",
+        "IconBorder" : "BackGround2",
+        "IndentationLine" : "ForeGround3",
+        "LineNumbers" : "ForeGround3",
+        "MarkBookmark" : "Sub6",
+        "MarkBreakpointActive" : "Sub6",
+        "MarkBreakpointDisabled" : "HighLight2",
+        "MarkBreakpointReached" : "Sub5",
+        "MarkError" : "Sub1",
+        "MarkExecution" : "HighLight2",
+        "MarkWarning" : "Sub2",
+        "ModifiedLines" : "Main1",
+        "ReplaceHighlight" : "HighLight2",
+        "SavedLines" : "Main6",
+        "SearchHighlight" : "HighLight2",
+        "Separator" : "BackGround1",
+        "SpellChecking" : "Sub1",
+        "TabMarker" : "BackGround2",
+        "TemplateBackground" : "BackGround3",
+        "TemplateFocusedPlaceholder" : "Sub5",
+        "TemplatePlaceholder" : "Sub6",
+        "TemplateReadOnlyPlaceholder" : "Sub2",
+        "TextSelection" : "HighLight2",
+        "WordWrapMarker" : "BackGround3"
+    }
+}
