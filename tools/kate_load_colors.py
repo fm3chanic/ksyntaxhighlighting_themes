@@ -3,7 +3,7 @@
 # HTML files based on "color_scheme_template.html" 
 # you can find this template in https://github.com/fm3chanic/color_schemes
 # the target file is "kate_theme_template.theme"
-# you can find this template in https://github.com/fm3chanic/ksyntaxhighlighting
+# you can find this template in https://github.com/fm3chanic/ksyntaxhighlighting_themes
 
 import pandas as pd
 import sys
