@@ -20,8 +20,8 @@
             "selected-text-color" : "#d98b26"
         },
         "BaseN": {
-            "text-color" : "388694",
-            "selected-text-color" : "388694"
+            "text-color" : "#388694",
+            "selected-text-color" : "#388694"
         },
         "BuiltIn": {
             "text-color" : "#476b4b",
@@ -52,8 +52,8 @@
             "selected-text-color" : "#d95326"
         },
         "DecVal" : {
-            "text-color" : "388694",
-            "selected-text-color" : "388694"
+            "text-color" : "#388694",
+            "selected-text-color" : "#388694"
         },
         "Documentation" : {
             "text-color" : "#4a4a4f",
@@ -68,8 +68,8 @@
             "selected-text-color" : "#ac393b"
         },
         "Float" : {
-            "text-color" : "388694",
-            "selected-text-color" : "388694"
+            "text-color" : "#388694",
+            "selected-text-color" : "#388694"
         },
         "Function" : {
             "text-color" : "#ac393b",
@@ -128,8 +128,8 @@
             "selected-text-color" : "#d98b26"
         },
         "VerbatimString" : {
-            "text-color" : "388694",
-            "selected-text-color" : "388694"
+            "text-color" : "#388694",
+            "selected-text-color" : "#388694"
         },
         "Warning" : {
             "text-color" : "#ac393b",
