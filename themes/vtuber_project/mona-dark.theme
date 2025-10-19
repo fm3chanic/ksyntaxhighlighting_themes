@@ -12,76 +12,76 @@
             "background-color" : "#311b1d"
         },
         "Annotation": {
-            "text-color" : "#c9af82",
-            "selected-text-color" : "#c9af82"
+            "text-color" : "#b87a80",
+            "selected-text-color" : "#b87a80"
         },
         "Attribute" : {
-            "text-color" : "#f07594",
-            "selected-text-color" : "#f07594"
+            "text-color" : "#f09475",
+            "selected-text-color" : "#f09475"
         },
         "BaseN": {
-            "text-color" : "#f075b3",
-            "selected-text-color" : "#f075b3"
+            "text-color" : "#f0dec2",
+            "selected-text-color" : "#f0dec2"
         },
         "BuiltIn": {
-            "text-color" : "#f0d175",
-            "selected-text-color" : "#f0d175"
+            "text-color" : "#f07594",
+            "selected-text-color" : "#f07594"
         },
         "Char": {
             "text-color" : "#f0b375",
             "selected-text-color" : "#f0b375"
         },
         "Comment": {
-            "text-color" : "#c9af82",
-            "selected-text-color" : "#c9af82"
+            "text-color" : "#b87a80",
+            "selected-text-color" : "#b87a80"
         },
         "CommentVar" : {
-            "text-color" : "#c9af82",
-            "selected-text-color" : "#c9af82"
+            "text-color" : "#b87a80",
+            "selected-text-color" : "#b87a80"
         },
         "Constant" : {
-            "text-color" : "#f07594",
-            "selected-text-color" : "#f07594"
+            "text-color" : "#f0dec2",
+            "selected-text-color" : "#f0dec2"
         },
         "ControlFlow" : {
-            "text-color" : "#f09475",
-            "selected-text-color" : "#f09475"
+            "text-color" : "#f0d175",
+            "selected-text-color" : "#f0d175"
         },
         "DataType" : {
             "text-color" : "#f09475",
             "selected-text-color" : "#f09475"
         },
         "DecVal" : {
-            "text-color" : "#f075b3",
-            "selected-text-color" : "#f075b3"
+            "text-color" : "#f0dec2",
+            "selected-text-color" : "#f0dec2"
         },
         "Documentation" : {
-            "text-color" : "#c9af82",
-            "selected-text-color" : "#c9af82"
+            "text-color" : "#b87a80",
+            "selected-text-color" : "#b87a80"
         },
         "Error" : {
             "text-color" : "#f075f0",
             "selected-text-color" : "#f075f0"
         },
         "Extension" : {
-            "text-color" : "#f075f0",
-            "selected-text-color" : "#f075f0"
-        },
-        "Float" : {
             "text-color" : "#f075b3",
             "selected-text-color" : "#f075b3"
         },
+        "Float" : {
+            "text-color" : "#f0dec2",
+            "selected-text-color" : "#f0dec2"
+        },
         "Function" : {
-            "text-color" : "#f075f0",
-            "selected-text-color" : "#f075f0"
+            "text-color" : "#f07594",
+            "selected-text-color" : "#f07594"
         },
         "Import" : {
             "text-color" : "#f09475",
             "selected-text-color" : "#f09475"
         },
         "Information" : {
-            "text-color" : "#c9af82",
-            "selected-text-color" : "#c9af82"
+            "text-color" : "#b87a80",
+            "selected-text-color" : "#b87a80"
         },
         "Keyword" : {
             "text-color" : "#f0d175",
@@ -96,40 +96,40 @@
             "strike-through" : false
         },
         "Operator" : {
-            "text-color" : "#f07594",
-            "selected-text-color" : "#f07594"
+            "text-color" : "#f0dec2",
+            "selected-text-color" : "#f0dec2"
         },
         "Others" : {
-            "text-color" : "#dfc79f",
-            "selected-text-color" : "#dfc79f"
+            "text-color" : "#f075b3",
+            "selected-text-color" : "#f075b3"
         },
         "Preprocessor" : {
-            "text-color" : "#f09475",
-            "selected-text-color" : "#f09475"
+            "text-color" : "#f0b375",
+            "selected-text-color" : "#f0b375"
         },
         "RegionMarker" : {
             "text-color" : "#f09475",
             "selected-text-color" : "#f09475"
         },
         "SpecialChar" : {
-            "text-color" : "#f5cca3",
-            "selected-text-color" : "#f5cca3"
+            "text-color" : "#f0b375",
+            "selected-text-color" : "#f0b375"
         },
         "SpecialString" : {
-            "text-color" : "#f5cca3",
-            "selected-text-color" : "#f5cca3"
+            "text-color" : "#f0b375",
+            "selected-text-color" : "#f0b375"
         },
         "String" : {
             "text-color" : "#f0b375",
             "selected-text-color" : "#f0b375"
         },
         "Variable" : {
-            "text-color" : "#f07594",
-            "selected-text-color" : "#f07594"
+            "text-color" : "#f0dec2",
+            "selected-text-color" : "#f0dec2"
         },
         "VerbatimString" : {
-            "text-color" : "#f075b3",
-            "selected-text-color" : "#f075b3"
+            "text-color" : "#f0b375",
+            "selected-text-color" : "#f0b375"
         },
         "Warning" : {
             "text-color" : "#f075f0",
@@ -145,24 +145,24 @@
         "IconBorder" : "#422426",
         "IndentationLine" : "#c9af82",
         "LineNumbers" : "#c9af82",
-        "MarkBookmark" : "#f5e0a3",
-        "MarkBreakpointActive" : "#f5e0a3",
+        "MarkBookmark" : "#f0d175",
+        "MarkBreakpointActive" : "#f0d175",
         "MarkBreakpointDisabled" : "#957b50",
-        "MarkBreakpointReached" : "#f5a3b8",
-        "MarkError" : "#f5a3f5",
+        "MarkBreakpointReached" : "#f075b3",
+        "MarkError" : "#f075f0",
         "MarkExecution" : "#957b50",
-        "MarkWarning" : "#f5b8a3",
+        "MarkWarning" : "#f0b375",
         "ModifiedLines" : "#f075f0",
         "ReplaceHighlight" : "#957b50",
         "SavedLines" : "#f0d175",
         "SearchHighlight" : "#957b50",
         "Separator" : "#311b1d",
-        "SpellChecking" : "#f5a3f5",
+        "SpellChecking" : "#f075f0",
         "TabMarker" : "#422426",
         "TemplateBackground" : "#532d30",
-        "TemplateFocusedPlaceholder" : "#f5a3b8",
-        "TemplatePlaceholder" : "#f5e0a3",
-        "TemplateReadOnlyPlaceholder" : "#f5b8a3",
+        "TemplateFocusedPlaceholder" : "#f075b3",
+        "TemplatePlaceholder" : "#f0d175",
+        "TemplateReadOnlyPlaceholder" : "#f0b375",
         "TextSelection" : "#957b50",
         "WordWrapMarker" : "#532d30"
     }

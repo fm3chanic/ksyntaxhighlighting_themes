@@ -7,85 +7,85 @@
     },
     "text-styles" : {
         "Alert" : {
-            "text-color" : "Main1",
-            "selected-text-color" : "Main1",
+            "text-color" : "Syn1",
+            "selected-text-color" : "Syn1",
             "background-color" : "BackGround1"
         },
         "Annotation": {
-            "text-color" : "ForeGround3",
-            "selected-text-color" : "ForeGround3"
+            "text-color" : "Syn7",
+            "selected-text-color" : "Syn7"
         },
         "Attribute" : {
-            "text-color" : "Main5",
-            "selected-text-color" : "Main5"
+            "text-color" : "Syn5",
+            "selected-text-color" : "Syn5"
         },
         "BaseN": {
-            "text-color" : "Main3",
-            "selected-text-color" : "Main3"
+            "text-color" : "ForeGround1",
+            "selected-text-color" : "ForeGround1"
         },
         "BuiltIn": {
-            "text-color" : "Main6",
-            "selected-text-color" : "Main6"
+            "text-color" : "Syn3",
+            "selected-text-color" : "Syn3"
         },
         "Char": {
-            "text-color" : "Main4",
-            "selected-text-color" : "Main4"
+            "text-color" : "Syn2",
+            "selected-text-color" : "Syn2"
         },
         "Comment": {
-            "text-color" : "ForeGround3",
-            "selected-text-color" : "ForeGround3"
+            "text-color" : "Syn7",
+            "selected-text-color" : "Syn7"
         },
         "CommentVar" : {
-            "text-color" : "ForeGround3",
-            "selected-text-color" : "ForeGround3"
+            "text-color" : "Syn7",
+            "selected-text-color" : "Syn7"
         },
         "Constant" : {
-            "text-color" : "Main5",
-            "selected-text-color" : "Main5"
+            "text-color" : "ForeGround1",
+            "selected-text-color" : "ForeGround1"
         },
         "ControlFlow" : {
-            "text-color" : "Main2",
-            "selected-text-color" : "Main2"
+            "text-color" : "Syn4",
+            "selected-text-color" : "Syn4"
         },
         "DataType" : {
-            "text-color" : "Main2",
-            "selected-text-color" : "Main2"
+            "text-color" : "Syn5",
+            "selected-text-color" : "Syn5"
         },
         "DecVal" : {
-            "text-color" : "Main3",
-            "selected-text-color" : "Main3"
+            "text-color" : "ForeGround1",
+            "selected-text-color" : "ForeGround1"
         },
         "Documentation" : {
-            "text-color" : "ForeGround3",
-            "selected-text-color" : "ForeGround3"
+            "text-color" : "Syn7",
+            "selected-text-color" : "Syn7"
         },
         "Error" : {
-            "text-color" : "Main1",
-            "selected-text-color" : "Main1"
+            "text-color" : "Syn1",
+            "selected-text-color" : "Syn1"
         },
         "Extension" : {
-            "text-color" : "Main1",
-            "selected-text-color" : "Main1"
+            "text-color" : "Syn6",
+            "selected-text-color" : "Syn6"
         },
         "Float" : {
-            "text-color" : "Main3",
-            "selected-text-color" : "Main3"
+            "text-color" : "ForeGround1",
+            "selected-text-color" : "ForeGround1"
         },
         "Function" : {
-            "text-color" : "Main1",
-            "selected-text-color" : "Main1"
+            "text-color" : "Syn3",
+            "selected-text-color" : "Syn3"
         },
         "Import" : {
-            "text-color" : "Main2",
-            "selected-text-color" : "Main2"
+            "text-color" : "Syn5",
+            "selected-text-color" : "Syn5"
         },
         "Information" : {
-            "text-color" : "ForeGround3",
-            "selected-text-color" : "ForeGround3"
+            "text-color" : "Syn7",
+            "selected-text-color" : "Syn7"
         },
         "Keyword" : {
-            "text-color" : "Main6",
-            "selected-text-color" : "Main6"
+            "text-color" : "Syn4",
+            "selected-text-color" : "Syn4"
         },
         "Normal" : {
             "text-color" : "ForeGround1",
@@ -96,44 +96,44 @@
             "strike-through" : false
         },
         "Operator" : {
-            "text-color" : "Main5",
-            "selected-text-color" : "Main5"
+            "text-color" : "ForeGround1",
+            "selected-text-color" : "ForeGround1"
         },
         "Others" : {
-            "text-color" : "ForeGround2",
-            "selected-text-color" : "ForeGround2"
+            "text-color" : "Syn6",
+            "selected-text-color" : "Syn6"
         },
         "Preprocessor" : {
-            "text-color" : "Main2",
-            "selected-text-color" : "Main2"
+            "text-color" : "Syn2",
+            "selected-text-color" : "Syn2"
         },
         "RegionMarker" : {
-            "text-color" : "Main2",
-            "selected-text-color" : "Main2"
+            "text-color" : "Syn5",
+            "selected-text-color" : "Syn5"
         },
         "SpecialChar" : {
-            "text-color" : "Sub4",
-            "selected-text-color" : "Sub4"
+            "text-color" : "Syn2",
+            "selected-text-color" : "Syn2"
         },
         "SpecialString" : {
-            "text-color" : "Sub4",
-            "selected-text-color" : "Sub4"
+            "text-color" : "Syn2",
+            "selected-text-color" : "Syn2"
         },
         "String" : {
-            "text-color" : "Main4",
-            "selected-text-color" : "Main4"
+            "text-color" : "Syn2",
+            "selected-text-color" : "Syn2"
         },
         "Variable" : {
-            "text-color" : "Main5",
-            "selected-text-color" : "Main5"
+            "text-color" : "ForeGround1",
+            "selected-text-color" : "ForeGround1"
         },
         "VerbatimString" : {
-            "text-color" : "Main3",
-            "selected-text-color" : "Main3"
+            "text-color" : "Syn2",
+            "selected-text-color" : "Syn2"
         },
         "Warning" : {
-            "text-color" : "Main1",
-            "selected-text-color" : "Main1"
+            "text-color" : "Syn1",
+            "selected-text-color" : "Syn1"
         }
     },
     "editor-colors": {
@@ -145,24 +145,24 @@
         "IconBorder" : "BackGround2",
         "IndentationLine" : "ForeGround3",
         "LineNumbers" : "ForeGround3",
-        "MarkBookmark" : "Sub6",
-        "MarkBreakpointActive" : "Sub6",
+        "MarkBookmark" : "Syn4",
+        "MarkBreakpointActive" : "Syn4",
         "MarkBreakpointDisabled" : "HighLight2",
-        "MarkBreakpointReached" : "Sub5",
-        "MarkError" : "Sub1",
+        "MarkBreakpointReached" : "Syn6",
+        "MarkError" : "Syn1",
         "MarkExecution" : "HighLight2",
-        "MarkWarning" : "Sub2",
-        "ModifiedLines" : "Main1",
+        "MarkWarning" : "Syn2",
+        "ModifiedLines" : "Syn1",
         "ReplaceHighlight" : "HighLight2",
-        "SavedLines" : "Main6",
+        "SavedLines" : "Syn4",
         "SearchHighlight" : "HighLight2",
         "Separator" : "BackGround1",
-        "SpellChecking" : "Sub1",
+        "SpellChecking" : "Syn1",
         "TabMarker" : "BackGround2",
         "TemplateBackground" : "BackGround3",
-        "TemplateFocusedPlaceholder" : "Sub5",
-        "TemplatePlaceholder" : "Sub6",
-        "TemplateReadOnlyPlaceholder" : "Sub2",
+        "TemplateFocusedPlaceholder" : "Syn6",
+        "TemplatePlaceholder" : "Syn4",
+        "TemplateReadOnlyPlaceholder" : "Syn2",
         "TextSelection" : "HighLight2",
         "WordWrapMarker" : "BackGround3"
     }
