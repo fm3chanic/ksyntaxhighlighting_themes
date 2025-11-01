@@ -16,16 +16,16 @@
             "selected-text-color" : "#999999"
         },
         "Attribute" : {
-            "text-color" : "#ff00ff",
-            "selected-text-color" : "#ff00ff"
+            "text-color" : "#0080ff",
+            "selected-text-color" : "#0080ff"
         },
         "BaseN": {
-            "text-color" : "#ffffff",
-            "selected-text-color" : "#ffffff"
+            "text-color" : "#0080ff",
+            "selected-text-color" : "#0080ff"
         },
         "BuiltIn": {
-            "text-color" : "#ffff00",
-            "selected-text-color" : "#ffff00"
+            "text-color" : "#ff0000",
+            "selected-text-color" : "#ff0000"
         },
         "Char": {
             "text-color" : "#00ffff",
@@ -40,8 +40,8 @@
             "selected-text-color" : "#999999"
         },
         "Constant" : {
-            "text-color" : "#ffffff",
-            "selected-text-color" : "#ffffff"
+            "text-color" : "#ffff00",
+            "selected-text-color" : "#ffff00"
         },
         "ControlFlow" : {
             "text-color" : "#00ff00",
@@ -52,8 +52,8 @@
             "selected-text-color" : "#ff00ff"
         },
         "DecVal" : {
-            "text-color" : "#ffffff",
-            "selected-text-color" : "#ffffff"
+            "text-color" : "#0080ff",
+            "selected-text-color" : "#0080ff"
         },
         "Documentation" : {
             "text-color" : "#999999",
@@ -68,12 +68,12 @@
             "selected-text-color" : "#0080ff"
         },
         "Float" : {
-            "text-color" : "#ffffff",
-            "selected-text-color" : "#ffffff"
+            "text-color" : "#0080ff",
+            "selected-text-color" : "#0080ff"
         },
         "Function" : {
-            "text-color" : "#ffff00",
-            "selected-text-color" : "#ffff00"
+            "text-color" : "#ff0000",
+            "selected-text-color" : "#ff0000"
         },
         "Import" : {
             "text-color" : "#ff00ff",
@@ -96,16 +96,16 @@
             "strike-through" : false
         },
         "Operator" : {
-            "text-color" : "#ffffff",
-            "selected-text-color" : "#ffffff"
+            "text-color" : "#ffff00",
+            "selected-text-color" : "#ffff00"
         },
         "Others" : {
             "text-color" : "#0080ff",
             "selected-text-color" : "#0080ff"
         },
         "Preprocessor" : {
-            "text-color" : "#00ffff",
-            "selected-text-color" : "#00ffff"
+            "text-color" : "#ff00ff",
+            "selected-text-color" : "#ff00ff"
         },
         "RegionMarker" : {
             "text-color" : "#ff00ff",
@@ -124,8 +124,8 @@
             "selected-text-color" : "#00ffff"
         },
         "Variable" : {
-            "text-color" : "#ffffff",
-            "selected-text-color" : "#ffffff"
+            "text-color" : "#ffff00",
+            "selected-text-color" : "#ffff00"
         },
         "VerbatimString" : {
             "text-color" : "#00ffff",

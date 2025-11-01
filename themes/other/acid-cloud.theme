@@ -12,36 +12,36 @@
             "background-color" : "#161d16"
         },
         "Annotation": {
-            "text-color" : "#70c2c2",
-            "selected-text-color" : "#70c2c2"
+            "text-color" : "#8ba78b",
+            "selected-text-color" : "#8ba78b"
         },
         "Attribute" : {
-            "text-color" : "#f4f471",
-            "selected-text-color" : "#f4f471"
+            "text-color" : "#d3f471",
+            "selected-text-color" : "#d3f471"
         },
         "BaseN": {
-            "text-color" : "#c5d3c5",
-            "selected-text-color" : "#c5d3c5"
+            "text-color" : "#d3f471",
+            "selected-text-color" : "#d3f471"
         },
         "BuiltIn": {
-            "text-color" : "#71f4d3",
-            "selected-text-color" : "#71f4d3"
+            "text-color" : "#f4d371",
+            "selected-text-color" : "#f4d371"
         },
         "Char": {
             "text-color" : "#71f492",
             "selected-text-color" : "#71f492"
         },
         "Comment": {
-            "text-color" : "#70c2c2",
-            "selected-text-color" : "#70c2c2"
+            "text-color" : "#8ba78b",
+            "selected-text-color" : "#8ba78b"
         },
         "CommentVar" : {
-            "text-color" : "#70c2c2",
-            "selected-text-color" : "#70c2c2"
+            "text-color" : "#8ba78b",
+            "selected-text-color" : "#8ba78b"
         },
         "Constant" : {
-            "text-color" : "#c5d3c5",
-            "selected-text-color" : "#c5d3c5"
+            "text-color" : "#71f4d3",
+            "selected-text-color" : "#71f4d3"
         },
         "ControlFlow" : {
             "text-color" : "#92f471",
@@ -52,12 +52,12 @@
             "selected-text-color" : "#f4f471"
         },
         "DecVal" : {
-            "text-color" : "#c5d3c5",
-            "selected-text-color" : "#c5d3c5"
+            "text-color" : "#d3f471",
+            "selected-text-color" : "#d3f471"
         },
         "Documentation" : {
-            "text-color" : "#70c2c2",
-            "selected-text-color" : "#70c2c2"
+            "text-color" : "#8ba78b",
+            "selected-text-color" : "#8ba78b"
         },
         "Error" : {
             "text-color" : "#f4d371",
@@ -68,20 +68,20 @@
             "selected-text-color" : "#d3f471"
         },
         "Float" : {
-            "text-color" : "#c5d3c5",
-            "selected-text-color" : "#c5d3c5"
+            "text-color" : "#d3f471",
+            "selected-text-color" : "#d3f471"
         },
         "Function" : {
-            "text-color" : "#71f4d3",
-            "selected-text-color" : "#71f4d3"
+            "text-color" : "#f4d371",
+            "selected-text-color" : "#f4d371"
         },
         "Import" : {
             "text-color" : "#f4f471",
             "selected-text-color" : "#f4f471"
         },
         "Information" : {
-            "text-color" : "#70c2c2",
-            "selected-text-color" : "#70c2c2"
+            "text-color" : "#8ba78b",
+            "selected-text-color" : "#8ba78b"
         },
         "Keyword" : {
             "text-color" : "#92f471",
@@ -96,16 +96,16 @@
             "strike-through" : false
         },
         "Operator" : {
-            "text-color" : "#c5d3c5",
-            "selected-text-color" : "#c5d3c5"
+            "text-color" : "#71f4d3",
+            "selected-text-color" : "#71f4d3"
         },
         "Others" : {
             "text-color" : "#d3f471",
             "selected-text-color" : "#d3f471"
         },
         "Preprocessor" : {
-            "text-color" : "#71f492",
-            "selected-text-color" : "#71f492"
+            "text-color" : "#f4f471",
+            "selected-text-color" : "#f4f471"
         },
         "RegionMarker" : {
             "text-color" : "#f4f471",
@@ -124,8 +124,8 @@
             "selected-text-color" : "#71f492"
         },
         "Variable" : {
-            "text-color" : "#c5d3c5",
-            "selected-text-color" : "#c5d3c5"
+            "text-color" : "#71f4d3",
+            "selected-text-color" : "#71f4d3"
         },
         "VerbatimString" : {
             "text-color" : "#71f492",

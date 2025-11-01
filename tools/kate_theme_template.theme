@@ -12,36 +12,36 @@
             "background-color" : "BackGround1"
         },
         "Annotation": {
-            "text-color" : "Syn7",
-            "selected-text-color" : "Syn7"
+            "text-color" : "ForeGround3",
+            "selected-text-color" : "ForeGround3"
         },
         "Attribute" : {
-            "text-color" : "Syn5",
-            "selected-text-color" : "Syn5"
+            "text-color" : "Syn6",
+            "selected-text-color" : "Syn6"
         },
         "BaseN": {
-            "text-color" : "ForeGround1",
-            "selected-text-color" : "ForeGround1"
+            "text-color" : "Syn6",
+            "selected-text-color" : "Syn6"
         },
         "BuiltIn": {
-            "text-color" : "Syn3",
-            "selected-text-color" : "Syn3"
+            "text-color" : "Syn1",
+            "selected-text-color" : "Syn1"
         },
         "Char": {
             "text-color" : "Syn2",
             "selected-text-color" : "Syn2"
         },
         "Comment": {
-            "text-color" : "Syn7",
-            "selected-text-color" : "Syn7"
+            "text-color" : "ForeGround3",
+            "selected-text-color" : "ForeGround3"
         },
         "CommentVar" : {
-            "text-color" : "Syn7",
-            "selected-text-color" : "Syn7"
+            "text-color" : "ForeGround3",
+            "selected-text-color" : "ForeGround3"
         },
         "Constant" : {
-            "text-color" : "ForeGround1",
-            "selected-text-color" : "ForeGround1"
+            "text-color" : "Syn3",
+            "selected-text-color" : "Syn3"
         },
         "ControlFlow" : {
             "text-color" : "Syn4",
@@ -52,12 +52,12 @@
             "selected-text-color" : "Syn5"
         },
         "DecVal" : {
-            "text-color" : "ForeGround1",
-            "selected-text-color" : "ForeGround1"
+            "text-color" : "Syn6",
+            "selected-text-color" : "Syn6"
         },
         "Documentation" : {
-            "text-color" : "Syn7",
-            "selected-text-color" : "Syn7"
+            "text-color" : "ForeGround3",
+            "selected-text-color" : "ForeGround3"
         },
         "Error" : {
             "text-color" : "Syn1",
@@ -68,20 +68,20 @@
             "selected-text-color" : "Syn6"
         },
         "Float" : {
-            "text-color" : "ForeGround1",
-            "selected-text-color" : "ForeGround1"
+            "text-color" : "Syn6",
+            "selected-text-color" : "Syn6"
         },
         "Function" : {
-            "text-color" : "Syn3",
-            "selected-text-color" : "Syn3"
+            "text-color" : "Syn1",
+            "selected-text-color" : "Syn1"
         },
         "Import" : {
             "text-color" : "Syn5",
             "selected-text-color" : "Syn5"
         },
         "Information" : {
-            "text-color" : "Syn7",
-            "selected-text-color" : "Syn7"
+            "text-color" : "ForeGround3",
+            "selected-text-color" : "ForeGround3"
         },
         "Keyword" : {
             "text-color" : "Syn4",
@@ -96,16 +96,16 @@
             "strike-through" : false
         },
         "Operator" : {
-            "text-color" : "ForeGround1",
-            "selected-text-color" : "ForeGround1"
+            "text-color" : "Syn3",
+            "selected-text-color" : "Syn3"
         },
         "Others" : {
             "text-color" : "Syn6",
             "selected-text-color" : "Syn6"
         },
         "Preprocessor" : {
-            "text-color" : "Syn2",
-            "selected-text-color" : "Syn2"
+            "text-color" : "Syn5",
+            "selected-text-color" : "Syn5"
         },
         "RegionMarker" : {
             "text-color" : "Syn5",
@@ -124,8 +124,8 @@
             "selected-text-color" : "Syn2"
         },
         "Variable" : {
-            "text-color" : "ForeGround1",
-            "selected-text-color" : "ForeGround1"
+            "text-color" : "Syn3",
+            "selected-text-color" : "Syn3"
         },
         "VerbatimString" : {
             "text-color" : "Syn2",
