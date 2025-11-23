@@ -28,8 +28,8 @@
             "selected-text-color" : "#f86d6d"
         },
         "Char": {
-            "text-color" : "#b3ffff",
-            "selected-text-color" : "#b3ffff"
+            "text-color" : "#ffaa80",
+            "selected-text-color" : "#ffaa80"
         },
         "Comment": {
             "text-color" : "#a19cb0",
@@ -40,8 +40,8 @@
             "selected-text-color" : "#a19cb0"
         },
         "Constant" : {
-            "text-color" : "#ffaa80",
-            "selected-text-color" : "#ffaa80"
+            "text-color" : "#b3ffff",
+            "selected-text-color" : "#b3ffff"
         },
         "ControlFlow" : {
             "text-color" : "#86f9bf",
@@ -96,8 +96,8 @@
             "strike-through" : false
         },
         "Operator" : {
-            "text-color" : "#ffaa80",
-            "selected-text-color" : "#ffaa80"
+            "text-color" : "#b3ffff",
+            "selected-text-color" : "#b3ffff"
         },
         "Others" : {
             "text-color" : "#ff99cc",
@@ -112,24 +112,24 @@
             "selected-text-color" : "#bf9fdf"
         },
         "SpecialChar" : {
-            "text-color" : "#b3ffff",
-            "selected-text-color" : "#b3ffff"
-        },
-        "SpecialString" : {
-            "text-color" : "#b3ffff",
-            "selected-text-color" : "#b3ffff"
-        },
-        "String" : {
-            "text-color" : "#b3ffff",
-            "selected-text-color" : "#b3ffff"
-        },
-        "Variable" : {
             "text-color" : "#ffaa80",
             "selected-text-color" : "#ffaa80"
         },
-        "VerbatimString" : {
+        "SpecialString" : {
+            "text-color" : "#ffaa80",
+            "selected-text-color" : "#ffaa80"
+        },
+        "String" : {
+            "text-color" : "#ffaa80",
+            "selected-text-color" : "#ffaa80"
+        },
+        "Variable" : {
             "text-color" : "#b3ffff",
             "selected-text-color" : "#b3ffff"
+        },
+        "VerbatimString" : {
+            "text-color" : "#ffaa80",
+            "selected-text-color" : "#ffaa80"
         },
         "Warning" : {
             "text-color" : "#f86d6d",
@@ -151,7 +151,7 @@
         "MarkBreakpointReached" : "#ff99cc",
         "MarkError" : "#f86d6d",
         "MarkExecution" : "#6c667f",
-        "MarkWarning" : "#b3ffff",
+        "MarkWarning" : "#ffaa80",
         "ModifiedLines" : "#f86d6d",
         "ReplaceHighlight" : "#6c667f",
         "SavedLines" : "#86f9bf",
@@ -162,7 +162,7 @@
         "TemplateBackground" : "#3c3947",
         "TemplateFocusedPlaceholder" : "#ff99cc",
         "TemplatePlaceholder" : "#86f9bf",
-        "TemplateReadOnlyPlaceholder" : "#b3ffff",
+        "TemplateReadOnlyPlaceholder" : "#ffaa80",
         "TextSelection" : "#6c667f",
         "WordWrapMarker" : "#3c3947"
     }
