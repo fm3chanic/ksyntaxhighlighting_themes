@@ -9,7 +9,7 @@
         "Alert" : {
             "text-color" : "#d27979",
             "selected-text-color" : "#d27979",
-            "background-color" : "#1f2a2e"
+            "background-color" : "#1f262e"
         },
         "Annotation": {
             "text-color" : "#92a9b9",
@@ -137,33 +137,33 @@
         }
     },
     "editor-colors": {
-        "BackgroundColor" : "#1f2a2e",
-        "BracketMatching" : "#677e7e",
-        "CodeFolding" : "#677e7e",
-        "CurrentLine" : "#506262",
+        "BackgroundColor" : "#1f262e",
+        "BracketMatching" : "#67747e",
+        "CodeFolding" : "#67747e",
+        "CurrentLine" : "#505a62",
         "CurrentLineNumber" : "#92a9b9",
-        "IconBorder" : "#29383d",
+        "IconBorder" : "#29323d",
         "IndentationLine" : "#92a9b9",
         "LineNumbers" : "#92a9b9",
         "MarkBookmark" : "#9fd98c",
         "MarkBreakpointActive" : "#9fd98c",
-        "MarkBreakpointDisabled" : "#677e7e",
+        "MarkBreakpointDisabled" : "#67747e",
         "MarkBreakpointReached" : "#d194b3",
         "MarkError" : "#d27979",
-        "MarkExecution" : "#677e7e",
+        "MarkExecution" : "#67747e",
         "MarkWarning" : "#f2da8c",
         "ModifiedLines" : "#d27979",
-        "ReplaceHighlight" : "#677e7e",
+        "ReplaceHighlight" : "#67747e",
         "SavedLines" : "#9fd98c",
-        "SearchHighlight" : "#677e7e",
-        "Separator" : "#1f2a2e",
+        "SearchHighlight" : "#67747e",
+        "Separator" : "#1f262e",
         "SpellChecking" : "#d27979",
-        "TabMarker" : "#29383d",
-        "TemplateBackground" : "#34454c",
+        "TabMarker" : "#29323d",
+        "TemplateBackground" : "#343f4c",
         "TemplateFocusedPlaceholder" : "#d194b3",
         "TemplatePlaceholder" : "#9fd98c",
         "TemplateReadOnlyPlaceholder" : "#f2da8c",
-        "TextSelection" : "#677e7e",
-        "WordWrapMarker" : "#34454c"
+        "TextSelection" : "#67747e",
+        "WordWrapMarker" : "#343f4c"
     }
 }
