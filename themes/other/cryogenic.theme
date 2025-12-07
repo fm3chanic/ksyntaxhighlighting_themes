@@ -28,8 +28,8 @@
             "selected-text-color" : "#dd889d"
         },
         "Char": {
-            "text-color" : "#dddd88",
-            "selected-text-color" : "#dddd88"
+            "text-color" : "#d9d98c",
+            "selected-text-color" : "#d9d98c"
         },
         "Comment": {
             "text-color" : "#abbfc4",
@@ -112,24 +112,24 @@
             "selected-text-color" : "#88b3dd"
         },
         "SpecialChar" : {
-            "text-color" : "#dddd88",
-            "selected-text-color" : "#dddd88"
+            "text-color" : "#d9d98c",
+            "selected-text-color" : "#d9d98c"
         },
         "SpecialString" : {
-            "text-color" : "#dddd88",
-            "selected-text-color" : "#dddd88"
+            "text-color" : "#d9d98c",
+            "selected-text-color" : "#d9d98c"
         },
         "String" : {
-            "text-color" : "#dddd88",
-            "selected-text-color" : "#dddd88"
+            "text-color" : "#d9d98c",
+            "selected-text-color" : "#d9d98c"
         },
         "Variable" : {
             "text-color" : "#88ddc8",
             "selected-text-color" : "#88ddc8"
         },
         "VerbatimString" : {
-            "text-color" : "#dddd88",
-            "selected-text-color" : "#dddd88"
+            "text-color" : "#d9d98c",
+            "selected-text-color" : "#d9d98c"
         },
         "Warning" : {
             "text-color" : "#dd889d",
@@ -151,7 +151,7 @@
         "MarkBreakpointReached" : "#d98cc6",
         "MarkError" : "#dd889d",
         "MarkExecution" : "#6f919b",
-        "MarkWarning" : "#dddd88",
+        "MarkWarning" : "#d9d98c",
         "ModifiedLines" : "#dd889d",
         "ReplaceHighlight" : "#6f919b",
         "SavedLines" : "#9ddd88",
@@ -162,7 +162,7 @@
         "TemplateBackground" : "#55584b",
         "TemplateFocusedPlaceholder" : "#d98cc6",
         "TemplatePlaceholder" : "#9ddd88",
-        "TemplateReadOnlyPlaceholder" : "#dddd88",
+        "TemplateReadOnlyPlaceholder" : "#d9d98c",
         "TextSelection" : "#6f919b",
         "WordWrapMarker" : "#55584b"
     }
