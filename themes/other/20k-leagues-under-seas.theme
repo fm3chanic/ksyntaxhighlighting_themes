@@ -12,8 +12,8 @@
             "background-color" : "#141f1f"
         },
         "Annotation": {
-            "text-color" : "#dbc170",
-            "selected-text-color" : "#dbc170"
+            "text-color" : "#c9b58d",
+            "selected-text-color" : "#c9b58d"
         },
         "Attribute" : {
             "text-color" : "#eb93eb",
@@ -32,12 +32,12 @@
             "selected-text-color" : "#92b9b9"
         },
         "Comment": {
-            "text-color" : "#dbc170",
-            "selected-text-color" : "#dbc170"
+            "text-color" : "#c9b58d",
+            "selected-text-color" : "#c9b58d"
         },
         "CommentVar" : {
-            "text-color" : "#dbc170",
-            "selected-text-color" : "#dbc170"
+            "text-color" : "#c9b58d",
+            "selected-text-color" : "#c9b58d"
         },
         "Constant" : {
             "text-color" : "#51bde1",
@@ -56,8 +56,8 @@
             "selected-text-color" : "#eb93eb"
         },
         "Documentation" : {
-            "text-color" : "#dbc170",
-            "selected-text-color" : "#dbc170"
+            "text-color" : "#c9b58d",
+            "selected-text-color" : "#c9b58d"
         },
         "Error" : {
             "text-color" : "#eb9393",
@@ -80,16 +80,16 @@
             "selected-text-color" : "#9393eb"
         },
         "Information" : {
-            "text-color" : "#dbc170",
-            "selected-text-color" : "#dbc170"
+            "text-color" : "#c9b58d",
+            "selected-text-color" : "#c9b58d"
         },
         "Keyword" : {
             "text-color" : "#66e591",
             "selected-text-color" : "#66e591"
         },
         "Normal" : {
-            "text-color" : "#fbeab6",
-            "selected-text-color" : "#fbeab6",
+            "text-color" : "#e9d9ba",
+            "selected-text-color" : "#e9d9ba",
             "bold" : false,
             "italic" : false,
             "underline" : false,
@@ -141,10 +141,10 @@
         "BracketMatching" : "#507c7c",
         "CodeFolding" : "#507c7c",
         "CurrentLine" : "#3c5d5d",
-        "CurrentLineNumber" : "#dbc170",
+        "CurrentLineNumber" : "#c9b58d",
         "IconBorder" : "#1e2f2f",
-        "IndentationLine" : "#dbc170",
-        "LineNumbers" : "#dbc170",
+        "IndentationLine" : "#c9b58d",
+        "LineNumbers" : "#c9b58d",
         "MarkBookmark" : "#66e591",
         "MarkBreakpointActive" : "#66e591",
         "MarkBreakpointDisabled" : "#507c7c",
