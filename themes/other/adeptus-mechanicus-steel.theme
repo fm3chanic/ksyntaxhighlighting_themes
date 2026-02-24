@@ -2,18 +2,18 @@
     "metadata" : {
         "copyright" : ["SPDX-FileCopyrightText: fm3chanic <f.m3chanic@gmail.com>"],
         "license" : "SPDX-License-Identifier: MIT",
-        "name" : "adeptus-mechanicus-dark",
+        "name" : "adeptus-mechanicus-steel",
         "revision" : 1
     },
     "text-styles" : {
         "Alert" : {
             "text-color" : "#c58796",
             "selected-text-color" : "#c58796",
-            "background-color" : "#321e1b"
+            "background-color" : "#323e3e"
         },
         "Annotation": {
-            "text-color" : "#9da5af",
-            "selected-text-color" : "#9da5af"
+            "text-color" : "#c6c1a9",
+            "selected-text-color" : "#c6c1a9"
         },
         "Attribute" : {
             "text-color" : "#a68bc1",
@@ -32,12 +32,12 @@
             "selected-text-color" : "#c99482"
         },
         "Comment": {
-            "text-color" : "#9da5af",
-            "selected-text-color" : "#9da5af"
+            "text-color" : "#c6c1a9",
+            "selected-text-color" : "#c6c1a9"
         },
         "CommentVar" : {
-            "text-color" : "#9da5af",
-            "selected-text-color" : "#9da5af"
+            "text-color" : "#c6c1a9",
+            "selected-text-color" : "#c6c1a9"
         },
         "Constant" : {
             "text-color" : "#9fc6c6",
@@ -56,8 +56,8 @@
             "selected-text-color" : "#a68bc1"
         },
         "Documentation" : {
-            "text-color" : "#9da5af",
-            "selected-text-color" : "#9da5af"
+            "text-color" : "#c6c1a9",
+            "selected-text-color" : "#c6c1a9"
         },
         "Error" : {
             "text-color" : "#c58796",
@@ -80,16 +80,16 @@
             "selected-text-color" : "#8ba6c1"
         },
         "Information" : {
-            "text-color" : "#9da5af",
-            "selected-text-color" : "#9da5af"
+            "text-color" : "#c6c1a9",
+            "selected-text-color" : "#c6c1a9"
         },
         "Keyword" : {
             "text-color" : "#b5c587",
             "selected-text-color" : "#b5c587"
         },
         "Normal" : {
-            "text-color" : "#d1d8e0",
-            "selected-text-color" : "#d1d8e0",
+            "text-color" : "#e3ddbf",
+            "selected-text-color" : "#e3ddbf",
             "bold" : false,
             "italic" : false,
             "underline" : false,
@@ -137,33 +137,33 @@
         }
     },
     "editor-colors": {
-        "BackgroundColor" : "#321e1b",
-        "BracketMatching" : "#6d7278",
-        "CodeFolding" : "#6d7278",
-        "CurrentLine" : "#55595e",
-        "CurrentLineNumber" : "#9da5af",
-        "IconBorder" : "#422824",
-        "IndentationLine" : "#9da5af",
-        "LineNumbers" : "#9da5af",
+        "BackgroundColor" : "#323e3e",
+        "BracketMatching" : "#9d956c",
+        "CodeFolding" : "#9d956c",
+        "CurrentLine" : "#817a55",
+        "CurrentLineNumber" : "#c6c1a9",
+        "IconBorder" : "#394646",
+        "IndentationLine" : "#c6c1a9",
+        "LineNumbers" : "#c6c1a9",
         "MarkBookmark" : "#b5c587",
         "MarkBreakpointActive" : "#b5c587",
-        "MarkBreakpointDisabled" : "#6d7278",
+        "MarkBreakpointDisabled" : "#9d956c",
         "MarkBreakpointReached" : "#a68bc1",
         "MarkError" : "#c58796",
-        "MarkExecution" : "#6d7278",
+        "MarkExecution" : "#9d956c",
         "MarkWarning" : "#c99482",
         "ModifiedLines" : "#c58796",
-        "ReplaceHighlight" : "#6d7278",
+        "ReplaceHighlight" : "#9d956c",
         "SavedLines" : "#b5c587",
-        "SearchHighlight" : "#6d7278",
-        "Separator" : "#321e1b",
+        "SearchHighlight" : "#9d956c",
+        "Separator" : "#323e3e",
         "SpellChecking" : "#c58796",
-        "TabMarker" : "#422824",
-        "TemplateBackground" : "#53322d",
+        "TabMarker" : "#394646",
+        "TemplateBackground" : "#3e4c4c",
         "TemplateFocusedPlaceholder" : "#a68bc1",
         "TemplatePlaceholder" : "#b5c587",
         "TemplateReadOnlyPlaceholder" : "#c99482",
-        "TextSelection" : "#6d7278",
-        "WordWrapMarker" : "#53322d"
+        "TextSelection" : "#9d956c",
+        "WordWrapMarker" : "#3e4c4c"
     }
 }
