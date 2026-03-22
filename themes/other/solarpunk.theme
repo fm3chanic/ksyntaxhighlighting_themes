@@ -7,8 +7,8 @@
     },
     "text-styles" : {
         "Alert" : {
-            "text-color" : "#eb474a",
-            "selected-text-color" : "#eb474a",
+            "text-color" : "#d65c5e",
+            "selected-text-color" : "#d65c5e",
             "background-color" : "#283f48"
         },
         "Annotation": {
@@ -24,8 +24,8 @@
             "selected-text-color" : "#F0F3BD"
         },
         "BuiltIn": {
-            "text-color" : "#eb474a",
-            "selected-text-color" : "#eb474a"
+            "text-color" : "#d65c5e",
+            "selected-text-color" : "#d65c5e"
         },
         "Char": {
             "text-color" : "#ebba47",
@@ -60,8 +60,8 @@
             "selected-text-color" : "#bec2ad"
         },
         "Error" : {
-            "text-color" : "#eb474a",
-            "selected-text-color" : "#eb474a"
+            "text-color" : "#d65c5e",
+            "selected-text-color" : "#d65c5e"
         },
         "Extension" : {
             "text-color" : "#F0F3BD",
@@ -72,8 +72,8 @@
             "selected-text-color" : "#F0F3BD"
         },
         "Function" : {
-            "text-color" : "#eb474a",
-            "selected-text-color" : "#eb474a"
+            "text-color" : "#d65c5e",
+            "selected-text-color" : "#d65c5e"
         },
         "Import" : {
             "text-color" : "#61a6d1",
@@ -132,8 +132,8 @@
             "selected-text-color" : "#ebba47"
         },
         "Warning" : {
-            "text-color" : "#eb474a",
-            "selected-text-color" : "#eb474a"
+            "text-color" : "#d65c5e",
+            "selected-text-color" : "#d65c5e"
         }
     },
     "editor-colors": {
@@ -149,15 +149,15 @@
         "MarkBreakpointActive" : "#afe085",
         "MarkBreakpointDisabled" : "#728c97",
         "MarkBreakpointReached" : "#F0F3BD",
-        "MarkError" : "#eb474a",
+        "MarkError" : "#d65c5e",
         "MarkExecution" : "#728c97",
         "MarkWarning" : "#ebba47",
-        "ModifiedLines" : "#eb474a",
+        "ModifiedLines" : "#d65c5e",
         "ReplaceHighlight" : "#728c97",
         "SavedLines" : "#afe085",
         "SearchHighlight" : "#728c97",
         "Separator" : "#283f48",
-        "SpellChecking" : "#eb474a",
+        "SpellChecking" : "#d65c5e",
         "TabMarker" : "#324e58",
         "TemplateBackground" : "#3b5c68",
         "TemplateFocusedPlaceholder" : "#F0F3BD",
