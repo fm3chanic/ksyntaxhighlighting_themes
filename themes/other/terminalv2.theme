@@ -2,7 +2,7 @@
     "metadata" : {
         "copyright" : ["SPDX-FileCopyrightText: fm3chanic <f.m3chanic@gmail.com>"],
         "license" : "SPDX-License-Identifier: MIT",
-        "name" : "terminal",
+        "name" : "terminalv2",
         "revision" : 1
     },
     "text-styles" : {
@@ -12,8 +12,8 @@
             "background-color" : "#1b1818"
         },
         "Annotation": {
-            "text-color" : "#75A394",
-            "selected-text-color" : "#75A394"
+            "text-color" : "#80A375",
+            "selected-text-color" : "#80A375"
         },
         "Attribute" : {
             "text-color" : "#c18bb8",
@@ -32,12 +32,12 @@
             "selected-text-color" : "#DBD270"
         },
         "Comment": {
-            "text-color" : "#75A394",
-            "selected-text-color" : "#75A394"
+            "text-color" : "#80A375",
+            "selected-text-color" : "#80A375"
         },
         "CommentVar" : {
-            "text-color" : "#75A394",
-            "selected-text-color" : "#75A394"
+            "text-color" : "#80A375",
+            "selected-text-color" : "#80A375"
         },
         "Constant" : {
             "text-color" : "#93D1D1",
@@ -56,8 +56,8 @@
             "selected-text-color" : "#c18bb8"
         },
         "Documentation" : {
-            "text-color" : "#75A394",
-            "selected-text-color" : "#75A394"
+            "text-color" : "#80A375",
+            "selected-text-color" : "#80A375"
         },
         "Error" : {
             "text-color" : "#c5879c",
@@ -80,16 +80,16 @@
             "selected-text-color" : "#8b99c1"
         },
         "Information" : {
-            "text-color" : "#75A394",
-            "selected-text-color" : "#75A394"
+            "text-color" : "#80A375",
+            "selected-text-color" : "#80A375"
         },
         "Keyword" : {
             "text-color" : "#b5c587",
             "selected-text-color" : "#b5c587"
         },
         "Normal" : {
-            "text-color" : "#B7E0D3",
-            "selected-text-color" : "#B7E0D3",
+            "text-color" : "#C1E0B7",
+            "selected-text-color" : "#C1E0B7",
             "bold" : false,
             "italic" : false,
             "underline" : false,
@@ -138,24 +138,24 @@
     },
     "editor-colors": {
         "BackgroundColor" : "#1b1818",
-        "BracketMatching" : "#517A6D",
-        "CodeFolding" : "#517A6D",
-        "CurrentLine" : "#476B5F",
-        "CurrentLineNumber" : "#75A394",
+        "BracketMatching" : "#5B7A51",
+        "CodeFolding" : "#5B7A51",
+        "CurrentLine" : "#4F6B46",
+        "CurrentLineNumber" : "#80A375",
         "IconBorder" : "#292424",
-        "IndentationLine" : "#75A394",
-        "LineNumbers" : "#75A394",
+        "IndentationLine" : "#80A375",
+        "LineNumbers" : "#80A375",
         "MarkBookmark" : "#b5c587",
         "MarkBreakpointActive" : "#b5c587",
-        "MarkBreakpointDisabled" : "#517A6D",
+        "MarkBreakpointDisabled" : "#5B7A51",
         "MarkBreakpointReached" : "#c18bb8",
         "MarkError" : "#c5879c",
-        "MarkExecution" : "#517A6D",
+        "MarkExecution" : "#5B7A51",
         "MarkWarning" : "#DBD270",
         "ModifiedLines" : "#c5879c",
-        "ReplaceHighlight" : "#517A6D",
+        "ReplaceHighlight" : "#5B7A51",
         "SavedLines" : "#b5c587",
-        "SearchHighlight" : "#517A6D",
+        "SearchHighlight" : "#5B7A51",
         "Separator" : "#1b1818",
         "SpellChecking" : "#c5879c",
         "TabMarker" : "#292424",
@@ -163,7 +163,7 @@
         "TemplateFocusedPlaceholder" : "#c18bb8",
         "TemplatePlaceholder" : "#b5c587",
         "TemplateReadOnlyPlaceholder" : "#DBD270",
-        "TextSelection" : "#517A6D",
+        "TextSelection" : "#5B7A51",
         "WordWrapMarker" : "#363030"
     }
 }
