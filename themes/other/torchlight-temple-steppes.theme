@@ -2,7 +2,7 @@
     "metadata" : {
         "copyright" : ["SPDX-FileCopyrightText: fm3chanic <f.m3chanic@gmail.com>"],
         "license" : "SPDX-License-Identifier: MIT",
-        "name" : "torchlight-torches-of-winterwell",
+        "name" : "torchlight-temple-steppes",
         "revision" : 1
     },
     "text-styles" : {
@@ -12,8 +12,8 @@
             "background-color" : "#292321"
         },
         "Annotation": {
-            "text-color" : "#D08745",
-            "selected-text-color" : "#D08745"
+            "text-color" : "#A3AF6B",
+            "selected-text-color" : "#A3AF6B"
         },
         "Attribute" : {
             "text-color" : "#987AB7",
@@ -32,12 +32,12 @@
             "selected-text-color" : "#E7CC7C"
         },
         "Comment": {
-            "text-color" : "#D08745",
-            "selected-text-color" : "#D08745"
+            "text-color" : "#A3AF6B",
+            "selected-text-color" : "#A3AF6B"
         },
         "CommentVar" : {
-            "text-color" : "#D08745",
-            "selected-text-color" : "#D08745"
+            "text-color" : "#A3AF6B",
+            "selected-text-color" : "#A3AF6B"
         },
         "Constant" : {
             "text-color" : "#86C4AB",
@@ -56,8 +56,8 @@
             "selected-text-color" : "#987AB7"
         },
         "Documentation" : {
-            "text-color" : "#D08745",
-            "selected-text-color" : "#D08745"
+            "text-color" : "#A3AF6B",
+            "selected-text-color" : "#A3AF6B"
         },
         "Error" : {
             "text-color" : "#CC6B65",
@@ -80,16 +80,16 @@
             "selected-text-color" : "#60A8D1"
         },
         "Information" : {
-            "text-color" : "#D08745",
-            "selected-text-color" : "#D08745"
+            "text-color" : "#A3AF6B",
+            "selected-text-color" : "#A3AF6B"
         },
         "Keyword" : {
             "text-color" : "#AAC486",
             "selected-text-color" : "#AAC486"
         },
         "Normal" : {
-            "text-color" : "#F0BE77",
-            "selected-text-color" : "#F0BE77",
+            "text-color" : "#C6EA94",
+            "selected-text-color" : "#C6EA94",
             "bold" : false,
             "italic" : false,
             "underline" : false,
@@ -138,24 +138,24 @@
     },
     "editor-colors": {
         "BackgroundColor" : "#292321",
-        "BracketMatching" : "#5C768A",
-        "CodeFolding" : "#5C768A",
-        "CurrentLine" : "#52697B",
-        "CurrentLineNumber" : "#D08745",
+        "BracketMatching" : "#5B8A7A",
+        "CodeFolding" : "#5B8A7A",
+        "CurrentLine" : "#527B6D",
+        "CurrentLineNumber" : "#A3AF6B",
         "IconBorder" : "#382F2D",
-        "IndentationLine" : "#D08745",
-        "LineNumbers" : "#D08745",
+        "IndentationLine" : "#A3AF6B",
+        "LineNumbers" : "#A3AF6B",
         "MarkBookmark" : "#AAC486",
         "MarkBreakpointActive" : "#AAC486",
-        "MarkBreakpointDisabled" : "#5C768A",
+        "MarkBreakpointDisabled" : "#5B8A7A",
         "MarkBreakpointReached" : "#987AB7",
         "MarkError" : "#CC6B65",
-        "MarkExecution" : "#5C768A",
+        "MarkExecution" : "#5B8A7A",
         "MarkWarning" : "#E7CC7C",
         "ModifiedLines" : "#CC6B65",
-        "ReplaceHighlight" : "#5C768A",
+        "ReplaceHighlight" : "#5B8A7A",
         "SavedLines" : "#AAC486",
-        "SearchHighlight" : "#5C768A",
+        "SearchHighlight" : "#5B8A7A",
         "Separator" : "#292321",
         "SpellChecking" : "#CC6B65",
         "TabMarker" : "#382F2D",
@@ -163,7 +163,7 @@
         "TemplateFocusedPlaceholder" : "#987AB7",
         "TemplatePlaceholder" : "#AAC486",
         "TemplateReadOnlyPlaceholder" : "#E7CC7C",
-        "TextSelection" : "#5C768A",
+        "TextSelection" : "#5B8A7A",
         "WordWrapMarker" : "#463B39"
     }
 }

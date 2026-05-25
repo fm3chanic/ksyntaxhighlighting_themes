@@ -2,14 +2,14 @@
     "metadata" : {
         "copyright" : ["SPDX-FileCopyrightText: fm3chanic <f.m3chanic@gmail.com>"],
         "license" : "SPDX-License-Identifier: MIT",
-        "name" : "torchlight-torches-of-winterwell",
+        "name" : "torchlight-camp-dawn",
         "revision" : 1
     },
     "text-styles" : {
         "Alert" : {
             "text-color" : "#CC6B65",
             "selected-text-color" : "#CC6B65",
-            "background-color" : "#292321"
+            "background-color" : "#2D211E"
         },
         "Annotation": {
             "text-color" : "#D08745",
@@ -137,33 +137,33 @@
         }
     },
     "editor-colors": {
-        "BackgroundColor" : "#292321",
-        "BracketMatching" : "#5C768A",
-        "CodeFolding" : "#5C768A",
-        "CurrentLine" : "#52697B",
+        "BackgroundColor" : "#2D211E",
+        "BracketMatching" : "#8D493C",
+        "CodeFolding" : "#8D493C",
+        "CurrentLine" : "#6A362C",
         "CurrentLineNumber" : "#D08745",
-        "IconBorder" : "#382F2D",
+        "IconBorder" : "#3D2C28",
         "IndentationLine" : "#D08745",
         "LineNumbers" : "#D08745",
         "MarkBookmark" : "#AAC486",
         "MarkBreakpointActive" : "#AAC486",
-        "MarkBreakpointDisabled" : "#5C768A",
+        "MarkBreakpointDisabled" : "#8D493C",
         "MarkBreakpointReached" : "#987AB7",
         "MarkError" : "#CC6B65",
-        "MarkExecution" : "#5C768A",
+        "MarkExecution" : "#8D493C",
         "MarkWarning" : "#E7CC7C",
         "ModifiedLines" : "#CC6B65",
-        "ReplaceHighlight" : "#5C768A",
+        "ReplaceHighlight" : "#8D493C",
         "SavedLines" : "#AAC486",
-        "SearchHighlight" : "#5C768A",
-        "Separator" : "#292321",
+        "SearchHighlight" : "#8D493C",
+        "Separator" : "#2D211E",
         "SpellChecking" : "#CC6B65",
-        "TabMarker" : "#382F2D",
-        "TemplateBackground" : "#463B39",
+        "TabMarker" : "#3D2C28",
+        "TemplateBackground" : "#4C3833",
         "TemplateFocusedPlaceholder" : "#987AB7",
         "TemplatePlaceholder" : "#AAC486",
         "TemplateReadOnlyPlaceholder" : "#E7CC7C",
-        "TextSelection" : "#5C768A",
-        "WordWrapMarker" : "#463B39"
+        "TextSelection" : "#8D493C",
+        "WordWrapMarker" : "#4C3833"
     }
 }
