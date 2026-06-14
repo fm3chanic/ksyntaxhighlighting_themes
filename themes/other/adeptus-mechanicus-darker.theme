@@ -12,8 +12,8 @@
             "background-color" : "#321B22"
         },
         "Annotation": {
-            "text-color" : "#9da5af",
-            "selected-text-color" : "#9da5af"
+            "text-color" : "#95B6AF",
+            "selected-text-color" : "#95B6AF"
         },
         "Attribute" : {
             "text-color" : "#a68bc1",
@@ -32,12 +32,12 @@
             "selected-text-color" : "#c99482"
         },
         "Comment": {
-            "text-color" : "#9da5af",
-            "selected-text-color" : "#9da5af"
+            "text-color" : "#95B6AF",
+            "selected-text-color" : "#95B6AF"
         },
         "CommentVar" : {
-            "text-color" : "#9da5af",
-            "selected-text-color" : "#9da5af"
+            "text-color" : "#95B6AF",
+            "selected-text-color" : "#95B6AF"
         },
         "Constant" : {
             "text-color" : "#9fc6c6",
@@ -56,8 +56,8 @@
             "selected-text-color" : "#a68bc1"
         },
         "Documentation" : {
-            "text-color" : "#9da5af",
-            "selected-text-color" : "#9da5af"
+            "text-color" : "#95B6AF",
+            "selected-text-color" : "#95B6AF"
         },
         "Error" : {
             "text-color" : "#c58796",
@@ -80,16 +80,16 @@
             "selected-text-color" : "#8ba6c1"
         },
         "Information" : {
-            "text-color" : "#9da5af",
-            "selected-text-color" : "#9da5af"
+            "text-color" : "#95B6AF",
+            "selected-text-color" : "#95B6AF"
         },
         "Keyword" : {
             "text-color" : "#b5c587",
             "selected-text-color" : "#b5c587"
         },
         "Normal" : {
-            "text-color" : "#d1d8e0",
-            "selected-text-color" : "#d1d8e0",
+            "text-color" : "#C6EAE2",
+            "selected-text-color" : "#C6EAE2",
             "bold" : false,
             "italic" : false,
             "underline" : false,
@@ -138,24 +138,24 @@
     },
     "editor-colors": {
         "BackgroundColor" : "#321B22",
-        "BracketMatching" : "#6d7278",
-        "CodeFolding" : "#6d7278",
-        "CurrentLine" : "#55595e",
-        "CurrentLineNumber" : "#9da5af",
+        "BracketMatching" : "#687C79",
+        "CodeFolding" : "#687C79",
+        "CurrentLine" : "#51615E",
+        "CurrentLineNumber" : "#95B6AF",
         "IconBorder" : "#41232C",
-        "IndentationLine" : "#9da5af",
-        "LineNumbers" : "#9da5af",
+        "IndentationLine" : "#95B6AF",
+        "LineNumbers" : "#95B6AF",
         "MarkBookmark" : "#b5c587",
         "MarkBreakpointActive" : "#b5c587",
-        "MarkBreakpointDisabled" : "#6d7278",
+        "MarkBreakpointDisabled" : "#687C79",
         "MarkBreakpointReached" : "#a68bc1",
         "MarkError" : "#c58796",
-        "MarkExecution" : "#6d7278",
+        "MarkExecution" : "#687C79",
         "MarkWarning" : "#c99482",
         "ModifiedLines" : "#c58796",
-        "ReplaceHighlight" : "#6d7278",
+        "ReplaceHighlight" : "#687C79",
         "SavedLines" : "#b5c587",
-        "SearchHighlight" : "#6d7278",
+        "SearchHighlight" : "#687C79",
         "Separator" : "#321B22",
         "SpellChecking" : "#c58796",
         "TabMarker" : "#41232C",
@@ -163,7 +163,7 @@
         "TemplateFocusedPlaceholder" : "#a68bc1",
         "TemplatePlaceholder" : "#b5c587",
         "TemplateReadOnlyPlaceholder" : "#c99482",
-        "TextSelection" : "#6d7278",
+        "TextSelection" : "#687C79",
         "WordWrapMarker" : "#522C37"
     }
 }
