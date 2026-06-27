@@ -2,7 +2,7 @@
     "metadata" : {
         "copyright" : ["SPDX-FileCopyrightText: fm3chanic <f.m3chanic@gmail.com>"],
         "license" : "SPDX-License-Identifier: MIT",
-        "name" : "nordic",
+        "name" : "nordic-dark",
         "revision" : 1
     },
     "text-styles" : {
