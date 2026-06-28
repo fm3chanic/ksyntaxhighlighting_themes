@@ -88,8 +88,8 @@
             "selected-text-color" : "#60862B"
         },
         "Normal" : {
-            "text-color" : "#856F2C",
-            "selected-text-color" : "#856F2C",
+            "text-color" : "#725F26",
+            "selected-text-color" : "#725F26",
             "bold" : false,
             "italic" : false,
             "underline" : false,
