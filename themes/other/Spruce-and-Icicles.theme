@@ -1,0 +1,169 @@
+{
+    "metadata" : {
+        "copyright" : ["SPDX-FileCopyrightText: fm3chanic <f.m3chanic@gmail.com>"],
+        "license" : "SPDX-License-Identifier: MIT",
+        "name" : "Spruce-and-Icicles",
+        "revision" : 1
+    },
+    "text-styles" : {
+        "Alert" : {
+            "text-color" : "#ce837d",
+            "selected-text-color" : "#ce837d",
+            "background-color" : "#1b1317"
+        },
+        "Annotation": {
+            "text-color" : "#8ebecc",
+            "selected-text-color" : "#8ebecc"
+        },
+        "Attribute" : {
+            "text-color" : "#bf81ca",
+            "selected-text-color" : "#bf81ca"
+        },
+        "BaseN": {
+            "text-color" : "#bf81ca",
+            "selected-text-color" : "#bf81ca"
+        },
+        "BuiltIn": {
+            "text-color" : "#ce837d",
+            "selected-text-color" : "#ce837d"
+        },
+        "Char": {
+            "text-color" : "#e0ad6b",
+            "selected-text-color" : "#e0ad6b"
+        },
+        "Comment": {
+            "text-color" : "#8ebecc",
+            "selected-text-color" : "#8ebecc"
+        },
+        "CommentVar" : {
+            "text-color" : "#8ebecc",
+            "selected-text-color" : "#8ebecc"
+        },
+        "Constant" : {
+            "text-color" : "#79d2ae",
+            "selected-text-color" : "#79d2ae"
+        },
+        "ControlFlow" : {
+            "text-color" : "#c0c685",
+            "selected-text-color" : "#c0c685"
+        },
+        "DataType" : {
+            "text-color" : "#8182ca",
+            "selected-text-color" : "#8182ca"
+        },
+        "DecVal" : {
+            "text-color" : "#bf81ca",
+            "selected-text-color" : "#bf81ca"
+        },
+        "Documentation" : {
+            "text-color" : "#8ebecc",
+            "selected-text-color" : "#8ebecc"
+        },
+        "Error" : {
+            "text-color" : "#ce837d",
+            "selected-text-color" : "#ce837d"
+        },
+        "Extension" : {
+            "text-color" : "#bf81ca",
+            "selected-text-color" : "#bf81ca"
+        },
+        "Float" : {
+            "text-color" : "#bf81ca",
+            "selected-text-color" : "#bf81ca"
+        },
+        "Function" : {
+            "text-color" : "#ce837d",
+            "selected-text-color" : "#ce837d"
+        },
+        "Import" : {
+            "text-color" : "#8182ca",
+            "selected-text-color" : "#8182ca"
+        },
+        "Information" : {
+            "text-color" : "#8ebecc",
+            "selected-text-color" : "#8ebecc"
+        },
+        "Keyword" : {
+            "text-color" : "#c0c685",
+            "selected-text-color" : "#c0c685"
+        },
+        "Normal" : {
+            "text-color" : "#caecf6",
+            "selected-text-color" : "#caecf6",
+            "bold" : false,
+            "italic" : false,
+            "underline" : false,
+            "strike-through" : false
+        },
+        "Operator" : {
+            "text-color" : "#79d2ae",
+            "selected-text-color" : "#79d2ae"
+        },
+        "Others" : {
+            "text-color" : "#bf81ca",
+            "selected-text-color" : "#bf81ca"
+        },
+        "Preprocessor" : {
+            "text-color" : "#8182ca",
+            "selected-text-color" : "#8182ca"
+        },
+        "RegionMarker" : {
+            "text-color" : "#8182ca",
+            "selected-text-color" : "#8182ca"
+        },
+        "SpecialChar" : {
+            "text-color" : "#e0ad6b",
+            "selected-text-color" : "#e0ad6b"
+        },
+        "SpecialString" : {
+            "text-color" : "#e0ad6b",
+            "selected-text-color" : "#e0ad6b"
+        },
+        "String" : {
+            "text-color" : "#e0ad6b",
+            "selected-text-color" : "#e0ad6b"
+        },
+        "Variable" : {
+            "text-color" : "#79d2ae",
+            "selected-text-color" : "#79d2ae"
+        },
+        "VerbatimString" : {
+            "text-color" : "#e0ad6b",
+            "selected-text-color" : "#e0ad6b"
+        },
+        "Warning" : {
+            "text-color" : "#ce837d",
+            "selected-text-color" : "#ce837d"
+        }
+    },
+    "editor-colors": {
+        "BackgroundColor" : "#1b1317",
+        "BracketMatching" : "#639aab",
+        "CodeFolding" : "#639aab",
+        "CurrentLine" : "#528999",
+        "CurrentLineNumber" : "#8ebecc",
+        "IconBorder" : "#2b1f25",
+        "IndentationLine" : "#8ebecc",
+        "LineNumbers" : "#8ebecc",
+        "MarkBookmark" : "#c0c685",
+        "MarkBreakpointActive" : "#c0c685",
+        "MarkBreakpointDisabled" : "#639aab",
+        "MarkBreakpointReached" : "#bf81ca",
+        "MarkError" : "#ce837d",
+        "MarkExecution" : "#639aab",
+        "MarkWarning" : "#e0ad6b",
+        "ModifiedLines" : "#ce837d",
+        "ReplaceHighlight" : "#639aab",
+        "SavedLines" : "#c0c685",
+        "SearchHighlight" : "#639aab",
+        "Separator" : "#1b1317",
+        "SpellChecking" : "#ce837d",
+        "TabMarker" : "#2b1f25",
+        "TemplateBackground" : "#3a2a33",
+        "TemplateFocusedPlaceholder" : "#bf81ca",
+        "TemplatePlaceholder" : "#c0c685",
+        "TemplateReadOnlyPlaceholder" : "#e0ad6b",
+        "TextSelection" : "#639aab",
+        "WordWrapMarker" : "#3a2a33"
+    }
+}
