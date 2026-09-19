@@ -1,5 +1,8 @@
 ## fm3chanic Themes for KSyntaxhighlighting
 
+> [!IMPORTANT]
+> This repository was archived and won't receive updates any longer.
+
 This repository contains all color themes for KSyntaxhighlighting I've created so far.<br> 
 KSyntaxhighlighting supports Kate and KWrite from the KDE desktop project and all other applications which are using KSyntaxhighlighting.
 
